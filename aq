@@ -1,0 +1,146 @@
+[33mcommit cc4ead0feca175557ad99be86f7ede5e61b65736[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DanielPancorbo <dl.pancorbo@gmail.com>
+Date:   Sat Feb 11 09:53:00 2023 -0500
+
+    Workflow
+
+[33mcommit 581185ac7f89bcd9722793e1362f6f9f0240acf2[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 42a50b5 972c81b
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Thu Nov 24 09:51:20 2022 -0500
+
+    Merge pull request #15 from ibm-developer-skills-network/add-init-task
+    
+    Added init task to clean workspace
+
+[33mcommit 972c81b581e3c33bfb7f925c3a56d9e0398a86a3[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Mon Nov 21 11:03:00 2022 -0500
+
+    Added tasks to cleanup workspace
+
+[33mcommit 0f06ad03a7e428918e286e56dde92b28dab3861c[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Mon Nov 21 09:17:37 2022 -0500
+
+    Added init task to clean workspace
+
+[33mcommit 42a50b5eed0e9c1bba8265ea39712dfd41259da3[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Sat Sep 10 14:02:45 2022 -0400
+
+    Added link to Kubernetes lab
+
+[33mcommit 03977e965e5c9933c91bba69d0e148fa54cbc93d[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Mon Aug 8 11:31:20 2022 -0400
+
+    Backlevel cause github actions to fail
+
+[33mcommit baea9757b3fc4e156c043a10fc6de35dc7445e0d[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Sun Aug 7 20:12:20 2022 -0400
+
+    More back-leveling for Python 3.6.9
+
+[33mcommit ffc05fdb0b1ad0bb1e9452f931390ba95676b015[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Sun Aug 7 20:00:06 2022 -0400
+
+    Backlevel packages for Python 3.6
+
+[33mcommit 50708e0806b395ab05f7e842246c3e4c9f3c0463[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Fri Aug 5 10:16:11 2022 -0400
+
+    Added missing pvc file
+
+[33mcommit c076adf6747b1ac889096c6008daf6358a971093[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Thu Aug 4 16:55:06 2022 -0400
+
+    Added starter files
+
+[33mcommit a633582e49ed20018ae8ff0891bdfd8eacad5061[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Fri Jul 22 12:58:42 2022 -0400
+
+    Revert last change
+
+[33mcommit 6d09d90589ed006449140ac1b342725a18ae50c2[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Fri Jul 22 12:55:48 2022 -0400
+
+    Update to correct version
+
+[33mcommit e3bfb4049e4637a899abf2fb4cde9ec295c6bc9f[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Fri Jul 22 12:47:41 2022 -0400
+
+    fix wrong directory name
+
+[33mcommit 2b774e528475981f1ac9b27a8ccd38edd951df36[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Fri Jul 22 12:18:45 2022 -0400
+
+    Added Lab 06 Deploy to Kubernetes
+
+[33mcommit 7aa76cfdb5e34faa7cb8e5fcc24425c3369caf92[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Wed Jul 20 14:24:31 2022 -0400
+
+    Seeded labs with starter code
+
+[33mcommit ecfb015501453be2d14ad6ba10f09023d729985b[m
+Merge: 0607476 e93542c
+Author: iamtapasmandal <107654075+iamtapasmandal@users.noreply.github.com>
+Date:   Wed Jul 20 13:54:08 2022 -0400
+
+    Merge pull request #2 from ibm-developer-skills-network/update-app
+    
+    Update app to not require Redis
+
+[33mcommit e93542c7a5aa84f4b57cc9c1ef89e1d179d3b585[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Wed Jul 20 12:28:20 2022 -0400
+
+    Updated settings
+
+[33mcommit 40891a90c753c57b8de39afdebac72eb8dc456c7[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Wed Jul 20 12:27:18 2022 -0400
+
+    Removed uneeded files
+
+[33mcommit 5e1cec2c743b01d2b2b78662ad48e1e158421fc0[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Wed Jul 20 12:27:01 2022 -0400
+
+    Updated to latest code without redis
+
+[33mcommit f11ebf9f9600f5614b82c46b13fc016f3408f251[m
+Author: John Rofrano <johnnyroy@johnrofrano.com>
+Date:   Wed Jul 20 12:25:42 2022 -0400
+
+    Removed dev environment
+
+[33mcommit 06074762c9f4939f4a5cc4852a204666714e2238[m
+Merge: 20897ec e5eeee3
+Author: iamtapasmandal <107654075+iamtapasmandal@users.noreply.github.com>
+Date:   Tue Jun 21 15:40:10 2022 -0400
+
+    Merge pull request #1 from ibm-developer-skills-network/Adding-github-actions
+    
+    Adding reference codes for labs
+
+[33mcommit e5eeee3486ccf52526b522838ce75315ba0f1595[m[33m ([m[1;31mupstream/Adding-github-actions[m[33m, [m[1;31morigin/Adding-github-actions[m[33m)[m
+Author: Mandeep Singh Sidhu <mandeepsingh.sidhu@loblaw.ca>
+Date:   Tue Jun 21 15:36:59 2022 -0400
+
+    Adding reference codes for labs
+
+[33mcommit 20897ec7504153d644a5a99fb6b0b75372bdf7a7[m
+Author: ibm-skills-network-bot <70593948+ibm-skills-network-bot@users.noreply.github.com>
+Date:   Tue Jun 21 13:34:28 2022 -0400
+
+    Initial commit
